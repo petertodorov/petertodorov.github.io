@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f84fc62-7795-4732-8198-abe8298208e8" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="prodavachnik.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/scripts/prodavachnik.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+              <folding>
+                <element signature="n#!!block;n#showSection#0;n#!!block;n#startApp#0" />
+                <element signature="n#!!block;n#saveSession#0;n#!!block;n#startApp#0" />
+                <element signature="n#!!block;n#showError#0;n#!!block;n#startApp#0" />
+                <element signature="e#2895#4239#0" />
+                <element signature="n#!!block;n#login#0;n#!!block;n#startApp#0" />
+                <element signature="n#!!block;n#logout#0;n#!!block;n#startApp#0" />
+                <element signature="n#!!block;n#register#0;n#!!block;n#startApp#0" />
+                <element signature="n#!!block;n#createAdd#0;n#!!block;n#startApp#0" />
+                <element signature="n#!!block;n#openEditAdd#0;n#!!block;n#startApp#0" />
+                <element signature="n#!!block;n#updateAdd#0;n#!!block;n#startApp#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logedOutHeaderTemplate.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/partials/logedOutHeaderTemplate.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="showDetailsTemplate.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/templates/showDetailsTemplate.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="singleDetail.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/partials/singleDetail.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="15" lean-forward="true" selection-start-line="12" selection-end-line="15" />
+              <folding>
+                <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#6;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#7;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#8;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#9;n#main#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="prodavachnik.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/styles/prodavachnik.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="487">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logInGeaderTemplate.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/partials/logInGeaderTemplate.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="58" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>update</find>
+      <find>showInfo</find>
+      <find>navi</find>
+      <find>log</find>
+      <find>loadin</find>
+      <find>logout</find>
+      <find>load</find>
+      <find>loadAdds</find>
+      <find>logOut</find>
+      <find>main</find>
+      <find>footer</find>
+      <find>menu</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/AppData/Local/Temp/BNZ.5c2f29a448a59b1f/prodavachnik.js" />
+        <option value="$PROJECT_DIR$/Prodavachnik - Skeleton/templates/loadAddsTemplate.hbs" />
+        <option value="$PROJECT_DIR$/Prodavachnik - Skeleton/templates/showDetails.hbs" />
+        <option value="$PROJECT_DIR$/Prodavachnik - Skeleton/templates/showDetailsTemplate.hbs" />
+        <option value="$PROJECT_DIR$/Prodavachnik - Skeleton/partials/singleDetail.hbs" />
+        <option value="$PROJECT_DIR$/Prodavachnik - Skeleton/partials/singleAddPartial.hbs" />
+        <option value="$PROJECT_DIR$/Prodavachnik - Skeleton/templates/headerTemplate.hbs" />
+        <option value="$PROJECT_DIR$/Prodavachnik - Skeleton/partials/headerLoggedOut.hbs" />
+        <option value="$PROJECT_DIR$/Prodavachnik - Skeleton/partials/headerLoggedIn.hbs" />
+        <option value="$PROJECT_DIR$/Prodavachnik - Skeleton/index.html" />
+        <option value="$PROJECT_DIR$/Prodavachnik - Skeleton/partials/loggedInTemplate.hbs" />
+        <option value="$PROJECT_DIR$/Prodavachnik - Skeleton/partials/logInGeaderTemplate.hbs" />
+        <option value="$PROJECT_DIR$/Prodavachnik - Skeleton/scripts/prodavachnik.js" />
+        <option value="$PROJECT_DIR$/Prodavachnik - Skeleton/styles/prodavachnik.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="417" />
+    <option name="width" value="955" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SPA template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SPA template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SPA template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SPA template" type="462c0819:PsiDirectoryNode" />
+              <item name="Prodavachnik - Skeleton" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SPA template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SPA template" type="462c0819:PsiDirectoryNode" />
+              <item name="Prodavachnik - Skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="partials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SPA template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SPA template" type="462c0819:PsiDirectoryNode" />
+              <item name="Prodavachnik - Skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SPA template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SPA template" type="462c0819:PsiDirectoryNode" />
+              <item name="Prodavachnik - Skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Petar\Desktop\SPA template\Prodavachnik - Skeleton\partials" />
+      <recent name="C:\Users\Petar\Desktop\SPA template\Prodavachnik - Skeleton" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SPA no template and routing-finished/Prodavachnik - Skeleton/index.html" />
+    <configuration name="index.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SPA template/Prodavachnik - Skeleton/index.html" />
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Prodavachnik - Skeleton/Prodavachnik - Skeleton/index.html" />
+    <configuration name="prodavachnik.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="prodavachnik.js" working-dir="$PROJECT_DIR$/Prodavachnik - Skeleton/scripts" />
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="Node.js.prodavachnik.js" />
+      <item itemvalue="JavaScript Debug.index.html (1)" />
+      <item itemvalue="JavaScript Debug.index.html (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (2)" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.prodavachnik.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f84fc62-7795-4732-8198-abe8298208e8" name="Default" comment="" />
+      <created>1545908811283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545908811283</updated>
+      <workItem from="1545908812598" duration="8881000" />
+      <workItem from="1546425980307" duration="5626000" />
+      <workItem from="1546504350648" duration="20847000" />
+      <workItem from="1546588103797" duration="15533000" />
+      <workItem from="1546947433344" duration="73000" />
+      <workItem from="1546947584295" duration="12640000" />
+      <workItem from="1547018274938" duration="16135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="79735000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16145833" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32843137" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32843137" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="17" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/scripts/prodavachnik.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5148">
+          <caret line="234" column="38" lean-forward="true" selection-start-line="234" selection-start-column="38" selection-end-line="234" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!block;n#showSection#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#saveSession#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#showError#0;n#!!block;n#startApp#0" />
+            <element signature="e#2895#4239#0" />
+            <element signature="n#!!block;n#login#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#logout#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#register#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#createAdd#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#openEditAdd#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#updateAdd#0;n#!!block;n#startApp#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#6;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#7;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#8;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#9;n#main#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/templates/loadAddsTemplate.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/partials/singleAddPartial.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/scripts/prodavachnik.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!block;n#showSection#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#saveSession#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#showError#0;n#!!block;n#startApp#0" />
+            <element signature="e#2895#4239#0" />
+            <element signature="n#!!block;n#login#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#logout#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#register#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#createAdd#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#openEditAdd#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#updateAdd#0;n#!!block;n#startApp#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BNZ.5c2f470149185099/prodavachnik.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="67" lean-forward="true" selection-start-line="31" selection-start-column="67" selection-end-line="31" selection-end-column="67" />
+          <folding>
+            <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#6;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#7;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#8;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#9;n#main#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/scripts/prodavachnik.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="n#!!block;n#showSection#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#saveSession#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#showError#0;n#!!block;n#startApp#0" />
+            <element signature="e#2895#4239#0" />
+            <element signature="n#!!block;n#login#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#logout#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#register#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#createAdd#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#openEditAdd#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#updateAdd#0;n#!!block;n#startApp#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BNZ.5c2f470149185099/prodavachnik.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2662">
+          <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#6;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#7;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#8;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#9;n#main#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/scripts/prodavachnik.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4444">
+          <caret line="202" column="31" lean-forward="true" selection-start-line="202" selection-start-column="31" selection-end-line="202" selection-end-column="31" />
+          <folding>
+            <element signature="n#!!block;n#showSection#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#saveSession#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#showError#0;n#!!block;n#startApp#0" />
+            <element signature="e#2895#4239#0" />
+            <element signature="n#!!block;n#login#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#logout#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#register#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#createAdd#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#openEditAdd#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#updateAdd#0;n#!!block;n#startApp#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/styles/prodavachnik.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4378">
+          <caret line="199" column="16" selection-start-line="199" selection-start-column="16" selection-end-line="199" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="71" column="70" lean-forward="true" selection-start-line="71" selection-start-column="70" selection-end-line="71" selection-end-column="70" />
+          <folding>
+            <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#6;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#7;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#8;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#9;n#main#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/scripts/prodavachnik.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1408">
+          <caret line="64" column="27" lean-forward="true" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!block;n#showSection#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#saveSession#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#showError#0;n#!!block;n#startApp#0" />
+            <element signature="e#2895#4239#0" />
+            <element signature="n#!!block;n#login#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#logout#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#register#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#createAdd#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#openEditAdd#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#updateAdd#0;n#!!block;n#startApp#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CRUD BookLibrary/BookLibrary CRUD JS APP/scripts/displayElements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" selection-start-line="23" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#6;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#7;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#8;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#9;n#main#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/scripts/prodavachnik.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1892">
+          <caret line="86" column="47" selection-start-line="86" selection-start-column="47" selection-end-line="86" selection-end-column="47" />
+          <folding>
+            <element signature="n#!!block;n#showSection#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#saveSession#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#showError#0;n#!!block;n#startApp#0" />
+            <element signature="e#2895#4239#0" />
+            <element signature="n#!!block;n#login#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#logout#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#register#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#createAdd#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#openEditAdd#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#updateAdd#0;n#!!block;n#startApp#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CRUD BookLibrary/BookLibrary CRUD JS APP/scripts/displayElements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#6;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#7;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#8;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#9;n#main#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CRUD BookLibrary/BookLibrary CRUD JS APP/scripts/crudOperations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="174" column="12" selection-start-line="174" selection-start-column="4" selection-end-line="174" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Contact Book Skeleton Pattern/js/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/IT/2. JS_Core_May_2018/3. JS_App_July_2018/08.SPA-exercises/Prodavachnik - Skeleton/Prodavachnik - Skeleton/scripts/prodavachnik.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="348" column="32" selection-start-line="348" selection-start-column="32" selection-end-line="348" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BNZ.5c2df58343f1fbdd/prodavachnik.js" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BNZ.5c2df7d643fb0e11/prodavachnik.css" />
+    <entry file="file://$PROJECT_DIR$/../CRUD BookLibrary/BookLibrary CRUD JS APP/scripts/displayElements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BNZ.5c2f29a448a59b1f/prodavachnik.js" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14908" column="10" selection-start-line="14908" selection-start-column="10" selection-end-line="14908" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BNZ.5c2f470149185099/prodavachnik.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/templates/showDetailsTemplate.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/templates/loadAddsTemplate.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/partials/singleDetail.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/partials/singleAddPartial.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="72" selection-start-line="8" selection-start-column="72" selection-end-line="8" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/partials/logedOutHeaderTemplate.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/scripts/prodavachnik.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="n#!!block;n#showSection#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#saveSession#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#showError#0;n#!!block;n#startApp#0" />
+            <element signature="e#2895#4239#0" />
+            <element signature="n#!!block;n#login#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#logout#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#register#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#createAdd#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#openEditAdd#0;n#!!block;n#startApp#0" />
+            <element signature="n#!!block;n#updateAdd#0;n#!!block;n#startApp#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="15" lean-forward="true" selection-start-line="12" selection-end-line="15" />
+          <folding>
+            <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#6;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#7;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#8;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#9;n#main#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/partials/logInGeaderTemplate.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="58" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prodavachnik - Skeleton/styles/prodavachnik.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
