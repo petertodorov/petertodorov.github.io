@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="/node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <title>Counter</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row " id="wrapper">
+            <h1 class="col-md-8 m-auto bg-warning text-white text-center">Counter!</h1>
+            <div class="d-block btn col-md-6 mx-auto my-1 bg-primary text-white text-center " id='btnIncrement'>Show me</div>
+            <div class="d-block btn col-md-6 mx-auto my-1 bg-secondary text-white text-center " id='addMe'>Increment me</div>
+            <div class="d-block btn col-md-6 mx-auto my-1 bg-danger text-white text-center " id='clearMe'>Clear me me</div>
+            
+            <div class="col-md-8 m-auto bg-warning text-white text-center">
+                <h1>List</h1>
+                <ul class="list-group btn col-md-8 m-auto" id="listOfNums">
+                </ul>
+            </div>
+            
+        </div>
+    </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="/node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="index.js"></script>
+    <script>window.onload=function(){increment('#wrapper')}</script>
+</body>
+
+</html>
